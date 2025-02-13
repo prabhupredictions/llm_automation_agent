@@ -1,0 +1,21 @@
+# Core dependencies
+fastapi==0.110.0
+uvicorn==0.27.0
+python-dotenv==1.0.0
+requests==2.31.0
+aiofiles==23.2.1
+
+# Testing dependencies
+pytest==8.0.0
+httpx==0.26.0
+
+# API dependencies
+python-multipart==0.0.6
+starlette==0.36.3
+
+# Image processing
+Pillow==11.0.0
+
+# Additional dependencies
+beautifulsoup4==4.12.2
+numpy==1.26.4
